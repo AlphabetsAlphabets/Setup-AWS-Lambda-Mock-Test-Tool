@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LambdaTest", "LambdaTest", "{F0D7E4AB-E6A1-BC43-6271-6D2C128283B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{718CC431-6D10-4C97-3C5C-2DB74D3D9CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaTest", "LambdaTest\src\LambdaTest\LambdaTest.csproj", "{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Debug|x64.Build.0 = Debug|Any CPU
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Debug|x86.Build.0 = Debug|Any CPU
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Release|x64.ActiveCfg = Release|Any CPU
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Release|x64.Build.0 = Release|Any CPU
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Release|x86.ActiveCfg = Release|Any CPU
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{718CC431-6D10-4C97-3C5C-2DB74D3D9CA3} = {F0D7E4AB-E6A1-BC43-6271-6D2C128283B6}
+		{1C9D4270-D1EA-442C-A53A-1E822C7E9EAF} = {718CC431-6D10-4C97-3C5C-2DB74D3D9CA3}
+	EndGlobalSection
+EndGlobal
